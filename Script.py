@@ -15,7 +15,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Aʟʟ Mᴀʀᴠᴇʟ Sᴛᴜᴅɪᴏs Mᴏᴠɪᴇs/S
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴅᴇᴀᴅᴘᴏᴏʟ-ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/TonyStarkBotz/DEADPOOL>𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐁𝐎𝐓</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/+ymaC4fIVKvE4YzBl>𝐃𝐄𝐀𝐃𝐏𝐎𝐎𝐋-𝐁𝐎𝐓</a>
 
 <b>ᴅᴇᴠ: <a href=https://t.me/Tony_Stark_75>Tᴏɴʏ Sᴛᴀʀᴋ</a></b>"""
 
